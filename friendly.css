@@ -8,3 +8,7 @@ td {
 p {
   font-weight: bold;
 }
+
+.content {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
