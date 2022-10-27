@@ -1,0 +1,85 @@
+[
+    {
+        "artist": "NewJeans",
+        "title": "Hype boy",
+        "genre": "Dance-Pop",
+        "year": 2022
+    },
+
+    {
+        "artist": "BLACKPINK",
+        "title": "Shut Down",
+        "genre": "Hip Hop",
+        "year": 2022
+    },
+
+    {
+        "artist": "BLACKPINK",
+        "title": "Lovesick Girls",
+        "genre": "Dance-Pop",
+        "year": 2020
+    },
+
+    {
+        "artist": "BTS",
+        "title": "Butter",
+        "genre": "Dance-Pop",
+        "year": 2021
+    },
+
+    {
+        "artist": "Charlie Puth",
+        "title": "That's Hilarious",
+        "genre": "Pop",
+        "year": 2022
+    },
+
+    {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "genre": "Pop",
+        "year": 2015
+    },
+
+    {
+        "artist": "Liam Payne",
+        "title": "Stack It Up",
+        "genre": "Rap",
+        "year": 2019
+    },
+
+    {
+        "artist": "Pink Sweat$",
+        "title": "Honesty",
+        "genre": "Funk",
+        "year": 2018
+    },
+
+    {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "genre": "Trap",
+        "year": 2018
+    },
+
+    {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "genre": "Pop rock",
+        "year": 2017
+    },
+
+    {
+        "artist": "IVE",
+        "title": "After LIKE",
+        "genre": "EDM",
+        "year": 2022
+    },
+
+    {
+        "artist": "TWICE",
+        "title": "The Feels",
+        "genre": "Disco",
+        "year": 2021
+    }
+]
