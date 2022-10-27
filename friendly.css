@@ -1,0 +1,12 @@
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+p {
+  font-size:xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
